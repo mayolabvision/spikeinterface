@@ -153,6 +153,7 @@ Non-NEO-based
     .. autofunction:: toy_example
     .. autofunction:: read_tridesclous
     .. autofunction:: read_waveclus
+    .. autofunction:: read_whitematter
     .. autofunction:: read_yass
 
 
@@ -214,6 +215,7 @@ spikeinterface.postprocessing
     .. autofunction:: compute_spike_locations
     .. autofunction:: compute_template_similarity
     .. autofunction:: compute_correlograms
+    .. autofunction:: compute_acgs_3d
     .. autofunction:: compute_isi_histograms
     .. autofunction:: get_template_metric_names
     .. autofunction:: align_sorting
@@ -335,6 +337,7 @@ spikeinterface.exporters
 .. automodule:: spikeinterface.exporters
 
     .. autofunction:: export_to_phy
+    .. autofunction:: export_to_ibl_gui
     .. autofunction:: export_report
 
 
